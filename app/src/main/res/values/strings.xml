@@ -1,0 +1,8 @@
+<!-- Translated By Devnagri -->
+<!-- http://devnagri.com -->
+<resources tools:ignore="ExtraTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Api Parser</string>
+    <string name="title_activity_stickers">Sticky Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">dfdgfdgfdhfgh</string>
+ </resources>

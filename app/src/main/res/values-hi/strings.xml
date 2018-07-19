@@ -1,0 +1,8 @@
+<!-- Translated By Devnagri -->
+<!-- http://devnagri.com -->
+<resources tools:ignore="ExtraTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">एपीआई पार्सर</string>
+    <string name="title_activity_stickers">स्टिकर गतिविधि</string>
+    <string name="action_settings">सेटिंग्स</string>
+    <string name="section_format">अनुभाग से हैलो वर्ल्ड:% 1 $ डी</string>
+ </resources>

@@ -1,0 +1,8 @@
+<!-- Translated By Devnagri -->
+<!-- http://devnagri.com -->
+<resources tools:ignore="ExtraTranslation" xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name"></string>
+    <string name="title_activity_stickers"></string>
+    <string name="action_settings"></string>
+    <string name="section_format"></string>
+ </resources>
